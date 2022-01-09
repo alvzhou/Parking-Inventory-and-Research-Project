@@ -12,5 +12,6 @@ Welcome to my Parking and Inventory Project. This project will provide an overvi
 3. Input the class-names into the web-scraping bot, which will be used to automatically retrieve all the elements corresponding to that class name
 4. Voila! Here are the results shown below, shown in a csv file
 ## Results
-![image](https://user-images.githubusercontent.com/78982275/148669857-c6ce9057-a45e-4953-a512-ef54effe431f.png)
+![WebScrapingHonk](https://user-images.githubusercontent.com/78982275/148669886-88fbbd14-6af5-4081-8b6d-6f5ac068e0d6.png)
+
 
