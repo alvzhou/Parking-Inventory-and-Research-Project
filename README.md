@@ -13,6 +13,7 @@ Welcome to my Parking and Inventory Project. This project will provide an overvi
 4. Run the code!
 ## Results
 ![image](https://user-images.githubusercontent.com/78982275/148669920-8c769fff-be64-4264-8cce-0583ebb1e249.png)
+
 4. Voila! Here are the results shown below, stored in a csv file. Now you can use the data and import into a custom map, or do some cool things with it too :)
 
 
