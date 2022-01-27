@@ -1,7 +1,7 @@
 # Parking Inventory and Research Project
 ![image](https://user-images.githubusercontent.com/78982275/148660426-273698f1-5ad7-43c5-b6fa-e0c673ebbc98.png)
 
-Welcome to my Parking and Inventory Project. This project will provide an overview on how I was able to create all those parking spots above, all using Python's Selenium Library!
+Hello! Welcome to my Parking and Inventory Project. This project will provide an overview on how I was able to create all those parking spots above, all using Python's Selenium Library!
 
 To view map above: https://www.google.com/maps/d/u/0/viewer?mid=1-fNcspNBu4za8tvEnSZQsT9FeFGos2FR&ll=53.29021125353078%2C-113.3446305669371&z=9
 # Project Outline:
